@@ -21,8 +21,12 @@ Este é um projeto interativo que utiliza **CocoSSD** para reconhecimento de obj
 2. **Vire o rosto pra esquerda** → Mario anda para a esquerda  
 3. **Levante o nariz** → Mario pula  
 
+## 👑 Como Jogar Online
+🔗 **Acesse o jogo aqui:**  
+👉 [Mario Bros com CocoSSD](https://morganasch.github.io/Mario-Bros-com-Cocossd/) 
 
 ## 🚀 Como Executar
+
 1. Clone este repositório:  
    ```bash
    git clone https://github.com/seu-usuario/mario-gestos.git
