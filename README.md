@@ -6,15 +6,15 @@
 </div>
 
 
-# 🎮 Mario Bros com Detecção de Gestos (CocoSSD)
+# 🎮🕹️👾 Mario Bros com Detecção de Gestos (CocoSSD) 🎮🕹️👾
 
 Este é um projeto interativo que utiliza **CocoSSD** para reconhecimento de objetos e permite que o jogador controle o personagem **Mario** através de gestos detectados pela câmera. Inspirado no clássico **Super Mario Bros**, o jogo traz uma experiência inovadora ao substituir o teclado ou joystick por comandos baseados em movimentos manuais.
 
 ## 🛠️ Tecnologias Utilizadas
-- **HTML, CSS e JavaScript** para a estrutura do jogo  
-- **p5.js** para renderização gráfica e manipulação de elementos  
-- **CocoSSD (TensorFlow.js)** para reconhecimento de objetos e detecção de gestos  
-- **Matter.js** para a física do jogo  
+⭐ **HTML, CSS e JavaScript** para a estrutura do jogo  
+⭐ **p5.js** para renderização gráfica e manipulação de elementos  
+⭐ **CocoSSD (TensorFlow.js)** para reconhecimento de objetos e detecção de gestos  
+⭐ **Matter.js** para a física do jogo  
 
 ## 🎮 Como Jogar
 1. **Vire o rosto pra direita** → Mario anda para a direita  
@@ -29,10 +29,9 @@ Este é um projeto interativo que utiliza **CocoSSD** para reconhecimento de obj
    cd mario-gestos
 
 2. Instale as dependências:
-   bash
-npm install
+   ```bash
+   npm install
 
 3. Inicie o servidor local:
-   
-bash
-npm start
+    ```bash
+    npm start
