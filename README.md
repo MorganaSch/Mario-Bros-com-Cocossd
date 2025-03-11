@@ -6,7 +6,7 @@
 </div>
 
 
-# 🎮🕹️👾 Mario Bros com Detecção de Gestos (CocoSSD) 🎮🕹️👾
+# 🕹️👾Mario Bros com Detecção de Gestos (CocoSSD)🕹️👾
 
 Este é um projeto interativo que utiliza **CocoSSD** para reconhecimento de objetos e permite que o jogador controle o personagem **Mario** através de gestos detectados pela câmera. Inspirado no clássico **Super Mario Bros**, o jogo traz uma experiência inovadora ao substituir o teclado ou joystick por comandos baseados em movimentos manuais.
 
