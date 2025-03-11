@@ -27,3 +27,12 @@ Este é um projeto interativo que utiliza **CocoSSD** para reconhecimento de obj
    ```bash
    git clone https://github.com/seu-usuario/mario-gestos.git
    cd mario-gestos
+
+2. Instale as dependências:
+   bash
+npm install
+
+3. Inicie o servidor local:
+   
+bash
+npm start
