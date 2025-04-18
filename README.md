@@ -1,9 +1,10 @@
 <div align="center">
+<p align="center">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gifcen.com%2Fmario-gif-43%2F&psig=AOvVaw36b5s854y3Cfq31_OSGywE&ust=1745099493340000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMCXha7I4owDFQAAAAAdAAAAABAE" alt="Data analysis gif" width="400"/>
+</p>
+</div> 
 
-
-![Mario](https://github.com/user-attachments/assets/c4bb174e-9143-4455-8c80-79194a883dcc)
-
-</div>
+<div align="center">
 
 
 # 🕹️Mario Bros com Detecção de Gestos (CocoSSD)🕹️
